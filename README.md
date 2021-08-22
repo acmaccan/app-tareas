@@ -1,7 +1,7 @@
 # app-tareas
 
 » Fecha: 2021.06.22<br/>
-» Ejercicio: Aplicación de listas de tareas. Desarrollada para consola con Node.js + Colors + Inquirer.<br/>
+» Ejercicio: Aplicación de consola para listas de tareas. Desarrollada con Node.js + Colors + Inquirer.<br/>
 » Curso: Node de Cero a Experto 2021 de Fernando Herrera.<br/>
 
 
